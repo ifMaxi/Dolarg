@@ -4,7 +4,7 @@ Small app that shows the values of different types of Argentine Dollar.
 
 The api used for this little job was: [DolarApi](https://dolarapi.com/docs/#/)
 
-The architecture used for this project was MVVM (ModelViewModelView), some components used were a bit unnecessary but for the purposes of learning Dependency Injection with Dagger/Hilt they were necessary.
+The architecture used for this project was MVVM (Model View ViewModel), some components used were a bit unnecessary but for the purposes of learning Dependency Injection with Dagger/Hilt they were necessary.
 
 ### What was used?
 
